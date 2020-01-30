@@ -1,2 +1,7 @@
 # Project exclude paths
 /.gradle/
+.idea/.gitignore
+.idea/gradle.xml
+.idea/misc.xml
+.idea/vcs.xml
+src/
