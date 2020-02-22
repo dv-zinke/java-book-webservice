@@ -9,3 +9,6 @@ build/
 build/generated/
 build/tmp/
 out/
+application-oauth.properties
+src/main/java/com/heejune/book/springboot/web/domain/test/
+src/test/resources/
